@@ -1,12 +1,8 @@
 package com.mongodb.demo;
 
 
-import java.util.ArrayList;
-import java.util.List;
-
 import org.bson.Document;
 
-import com.mongodb.Mongo;
 import com.mongodb.MongoClient;
 import com.mongodb.client.FindIterable;
 import com.mongodb.client.MongoCollection;
